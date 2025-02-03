@@ -1,0 +1,24 @@
+ul{
+    list-style-type: georgian;
+    background-color: royalblue;
+    font-size: 10px;
+    border: solid black;
+}
+li{
+    background-color: rosybrown;
+    border: dotted palevioletred;
+    padding: 10px;
+
+}
+.blue{
+    background-color: wheat;
+    padding: 10px;
+}
+td{
+    background-color: blanchedalmond;
+
+}
+table{
+    border-left:2px solid royalblue;
+    margin-left: 500px;
+}
